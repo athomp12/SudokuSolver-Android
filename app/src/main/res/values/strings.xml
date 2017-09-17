@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Easy Sudoku</string>
+    <string name="app_desc">This application makes use of the camera, the OpenCV library, and a recursive backtracking algorithm to scan, analyze, and solve sudoku puzzles in near real-time.</string>
+    <string name="openCameraText">Open Camera</string>
+</resources>
